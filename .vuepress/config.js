@@ -44,20 +44,6 @@ module.exports = {
         text: '标签' // 默认 “标签”
       }
     },
-    friendLink: [
-      {
-        title: '午后南杂',
-        desc: 'Enjoy when you can, and endure when you must.',
-        email: '1156743527@qq.com',
-        link: 'https://www.recoluan.com'
-      },
-      {
-        title: '我的小破站',
-        desc: '记录学习计算机的点点滴滴',
-        avatar: "https://vuepress-theme-reco.recoluan.com/icon_vuepress_reco.png",
-        link: 'https://vuepress-theme-reco.recoluan.com'
-      },
-    ],
     logo: '/logo.png',
     // 搜索设置
     search: true,
