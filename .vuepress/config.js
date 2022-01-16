@@ -1,6 +1,6 @@
 module.exports = {
-  title: "vuepress-theme-reco",
-  description: 'A simple and beautiful vuepress blog theme .',
+  title: "我的小破站",
+  description: '记录学习计算机的点点滴滴',
   dest: 'public',
   head: [
     ['link', { rel: 'icon', href: '/favicon.ico' }],
