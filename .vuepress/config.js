@@ -69,7 +69,7 @@ module.exports = {
     // 作者
     author: 'William Wang',
     // 作者头像
-    authorAvatar: 'https://image.baidu.com/search/detail?ct=503316480&z=undefined&tn=baiduimagedetail&ipn=d&word=%E6%B3%A2%E5%90%89%E5%A4%B4%E5%83%8F&step_word=&ie=utf-8&in=&cl=2&lm=-1&st=undefined&hd=undefined&latest=undefined&copyright=undefined&cs=3874321596,3672204922&os=1145517996,1820633003&simid=3874321596,3672204922&pn=3&rn=1&di=95920&ln=927&fr=&fmq=1642343927066_R&fm=&ic=undefined&s=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&is=0,0&istype=0&ist=&jit=&bdtype=0&spn=0&pi=0&gsm=0&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%253A%252F%252Finews.gtimg.com%252Fnewsapp_bt%252F0%252F14220929527%252F1000.jpg%26refer%3Dhttp%253A%252F%252Finews.gtimg.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1644935924%26t%3D1bfc5e98a85082d9bb0657c76d0c8c85&rpstart=0&rpnum=0&adpicid=0&nojc=undefined&dyTabStr=MCwzLDEsNCw2LDUsNyw4LDIsOQ%3D%3D',
+    authorAvatar: '/avatar.ico',
     // 备案号
     record: '无',
     // 项目开始时间
