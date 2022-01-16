@@ -57,7 +57,7 @@ module.exports = {
     // 作者头像
     authorAvatar: '/avatar.ico',
     // 备案号
-    record: '无',
+    //record: '无',
     // 项目开始时间
     startYear: '2022'
     /**
